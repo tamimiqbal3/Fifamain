@@ -1,0 +1,14 @@
+{
+  "name": "Tamim's Arena",
+  "short_name": "TArena",
+  "description": "Every Match. Every Goal. One Arena.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07090f",
+  "theme_color": "#00ff88",
+  "orientation": "any",
+  "icons": [
+    {"src": "https://via.placeholder.com/192x192/07090f/00ff88?text=TA", "sizes": "192x192", "type": "image/png"},
+    {"src": "https://via.placeholder.com/512x512/07090f/00ff88?text=TA", "sizes": "512x512", "type": "image/png"}
+  ]
+}
